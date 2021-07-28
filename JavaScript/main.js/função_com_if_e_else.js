@@ -10,4 +10,4 @@ function validaIdade(idade){
 }
 var idade = prompt("Qual sua idade ? ");
 validaIdade(idade)
-alert(validar);
+validar;
