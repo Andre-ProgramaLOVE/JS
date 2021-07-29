@@ -1,0 +1,19 @@
+.center{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:200px;
+}
+.texto{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	color: blue;
+	font-size: 50px;
+}
+button{
+	color:blue;
+	height:200px;
+	width:200px;
+	font-size:50px;
+}
